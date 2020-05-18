@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "firebase-email-auth"
+    }
+  },
+  "defaultProject": "firebase-email-auth",
+  "cli": {
+    "analytics": false
+  }
 }
